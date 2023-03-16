@@ -2,7 +2,7 @@
 by Wolfgang Rabenstein
 
 ## Installationsanleitung:
-* Klick auf den grünen Button mit dem Namen **Code**
+* Klick auf den grünen Button mit dem Namen **Code** `rgb(33, 135, 57)`
 * Wähle **Download ZIP**
 * Entpacke die heruntergeladene Datei auf deinem Rechner
 * Öffne die Datei **Blobber.exe** im Unterordner **Windows**
