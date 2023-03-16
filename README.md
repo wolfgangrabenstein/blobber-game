@@ -1,8 +1,6 @@
 # Blobber
 by Wolfgang Rabenstein
 
-*Blobber ist ein klassischer Klon im neuen Gewand des allseits beliebten Kultklassikers Blobby Volley von Daniel Knobe.*
-
 ## Installationsanleitung:
 * Klick auf den grünen Button mit dem Namen **Code**
 * Wähle **Download ZIP**
@@ -14,5 +12,5 @@ by Wolfgang Rabenstein
 * Click on the green colored button called **Code**
 * Choose **Download ZIP**
 * Unzip your downloaded file on your computer
-* Open up **Blobber.exe** located in "Windows"-subfolder
+* Open up **Blobber.exe** located in **Windows**-subfolder
 * Have Fun :)
